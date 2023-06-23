@@ -11,7 +11,7 @@
 https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 ### 📌 사용 언어
-- Python
+Python
 
 ### 📃 데이터 분석 보고서
-- 최종 데이터 분석 보고서는 "데분기_최종 보고서.pdf"파일을 참고
+최종 데이터 분석 보고서는 "데분기_최종 보고서.pdf"파일을 참고
